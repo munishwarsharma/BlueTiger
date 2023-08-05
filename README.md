@@ -25,3 +25,7 @@ This is a C++ implementation of a Chess Engine, designed to play a game of chess
 ## Requirements
 C++17 compatible compiler
 
+## Acknowledgments
+A big thank you to the creators of various open-source chess engines and libraries that inspired and provided valuable insights for this project.
+Especially maksimKorzh whoose chess videos helped me to debug my code 
+
